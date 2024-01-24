@@ -1,0 +1,7 @@
+name: assignment3
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - nbconvert=7.14.2
