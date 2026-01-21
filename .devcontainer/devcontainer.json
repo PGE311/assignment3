@@ -2,7 +2,7 @@
 // README at: https://github.com/devcontainers/templates/tree/main/src/miniconda
 {
   "name": "Miniconda (Python 3)",
-  "image": "ghcr.io/pge311/assignment_name_placeholder/python-devcontainer:latest",
+  "image": "ghcr.io/pge311/assignment3/python-devcontainer:latest",
   "extensions": [ 
       "ms-python.python",
       "ms-toolsai.jupyter"
